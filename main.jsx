@@ -1,1 +1,1 @@
-console.log("test main")
+console.log("test main, bug fixed");
